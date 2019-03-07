@@ -1,0 +1,6 @@
+Kenboard	KEYWORD1
+pressAndRelease	KEYWORD2
+ctrlPress	KEYWORD2
+typeWithDelay	KEYWORD2
+runCommandWindows	KEYWORD2
+openCommandLine	KEYWORD2
